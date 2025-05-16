@@ -7,7 +7,7 @@ APP_DIR="/var/www/bill"
 SQL_FILE="database.sql"
 DB_NAME="billingci"
 DB_USER="bill_user"
-DB_PASS="strongpassword"
+DB_PASS="R#ahul2025"
 PHP_VERSION="7.4"  # Update based on requirement
 
 echo "[+] Updating system..."
